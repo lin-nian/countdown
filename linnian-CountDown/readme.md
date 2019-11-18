@@ -1,6 +1,6 @@
 ### CountDown 倒计时
 
-倒计时组件，组件名：``uni-countdown``，代码块： uCountDown。
+uni-app组件，官方倒计时组件的升级款，组件名：``uni-countdown``，代码块： uCountDown。
 
 **使用方式：**
 
